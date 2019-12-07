@@ -14,5 +14,6 @@ public class HelloWorld {
     System.out.println("Hello, 62/A");
     System.out.println("Hello, first building");
     System.out.println("Hello, second floor");
+    System.out.println("Hello, first room");
   }
 }
