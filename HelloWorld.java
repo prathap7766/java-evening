@@ -12,5 +12,6 @@ public class HelloWorld {
     System.out.println("Hello, SGR dental college road");
     System.out.println("Hello, Papaiah garden");
     System.out.println("Hello, 62/A");
+    System.out.println("Hello, first building");
   }
 }
